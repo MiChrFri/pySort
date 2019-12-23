@@ -1,2 +1,4 @@
 # pySort
-Sorting algo impl in python
+Sorting algorithm implementations in Python3
+
+- MergeSort
